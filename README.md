@@ -1,0 +1,1 @@
+# Build_Simple_NN_on_FashionMNIST
